@@ -1,2 +1,3 @@
-const app = document.getElementById(app);
+import './router.js'
 
+// do somethins...
