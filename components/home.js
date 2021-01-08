@@ -1,1 +1,4 @@
-export default '<h1>home page</h1>';
+const home = document.createElement('h1');
+home.textContent = 'home page';
+
+export default home;
