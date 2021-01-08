@@ -1,4 +1,4 @@
 const errorPage = document.createElement('h1');
-errorPage.textContent = '404 page';
+errorPage.textContent = 'error page';
 
-export default 'errorPage';
+export default errorPage;
